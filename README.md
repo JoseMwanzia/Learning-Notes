@@ -1,7 +1,7 @@
 # Learning Notes
 
 Welcome to my personal engineering notes repository.  
-This is a documentation of various topics about backend engineering learnt including; Node.js, TypeScript, databases, system design, and DevOps.
+This is a brief documentation of various topics about backend engineering learnt including; Node.js, TypeScript, databases, system design, and DevOps.
 
 ## Topics Covered
 - Deployments
