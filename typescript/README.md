@@ -6,3 +6,5 @@
 ## 4. Type Narrowing
 ## 5. Utility Types
 ## 6. Generics
+
+FInd my Typescript learning notes [here](https://github.com/JoseMwanzia/typescriptLearningMaterials).
