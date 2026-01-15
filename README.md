@@ -21,7 +21,8 @@ I want to keep track of my learning, improve my understanding, and to have a pla
 
 ```
 learning-notes/
-│
+├── AWS/
+│   ├── Basics and Intro
 ├── deployments/
 │   ├── ContainerPlatforms(Caas)
 │   ├── EnterpiseCloud
