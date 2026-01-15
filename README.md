@@ -5,6 +5,7 @@ This is a brief documentation of various topics about backend engineering learnt
 
 ## Topics Covered
 - Deployments
+- AWS
 - Jest
 - Nodejs
 - Typescript
@@ -22,7 +23,7 @@ I want to keep track of my learning, improve my understanding, and to have a pla
 ```
 learning-notes/
 ├── AWS/
-│   ├── Basics and Intro
+│   ├── Introduction and Basics
 ├── deployments/
 │   ├── ContainerPlatforms(Caas)
 │   ├── EnterpiseCloud
